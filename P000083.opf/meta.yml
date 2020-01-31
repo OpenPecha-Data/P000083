@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ᨌ། །ཞལ་གདམས་ལམ་རིམ་ཡེཤེས་སྙིང་པོའི་བསྡུས་དོན་བཞུགས།
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་མི་ཕམ་རྒྱ་མཚོ།
+  - མཛད་པ་པོ། ཚ་སྒང་ལོ་ཙཱ་བ་རིན་ཆེན་རྣམ་རྒྱལ།
+  sku: KN-LYN-02
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Illuminating Sunlight:A Commentary on Lamrim Yeshe Nyingpo, Gradual Path of
+      the Wisdom Essence
+    bo: ཞལ་གདམས་ལམ་རིམ་ཡེ་ཤེས་སྙིང་པོའི་རྣམ་འགྲེལ་རབ་གསལ་ཉིན་བྱེད་སྣང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lamrim Yeshe Nyingpo–  Book 2
+    bo: ''
+  author:
+    en: Lotsawa Rinchen Namgyal
+    bo: ''
+  pusblisher:
+    en: Ka-Nying Shedrub Publications
+    bo: ''
+  sku: KN-LYN-02
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KN-LYN-02.epub
+  description:
+    en: ''
+    bo: ''
