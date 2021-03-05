@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000083
+initial_creation_type: ebook
+source_metadata:
   title: ᨌ། །ཞལ་གདམས་ལམ་རིམ་ཡེཤེས་སྙིང་པོའི་བསྡུས་དོན་བཞུགས།
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་མི་ཕམ་རྒྱ་མཚོ།
   - མཛད་པ་པོ། ཚ་སྒང་ལོ་ཙཱ་བ་རིན་ཆེན་རྣམ་རྒྱལ།
-  sku: KN-LYN-02
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: KN-LYN-02
 web_metadata:
   title:
     en: Illuminating Sunlight:A Commentary on Lamrim Yeshe Nyingpo, Gradual Path of
